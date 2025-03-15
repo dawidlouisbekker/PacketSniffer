@@ -18,7 +18,7 @@
 
 #define BUFFER_SIZE 65536
 
-//Maker odd to show. 
+//Make odd number to show. 
 int showpayload = 3;
 
 struct tcphdr {
